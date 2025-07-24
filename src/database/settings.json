@@ -1,0 +1,7 @@
+{
+  "maintenance": false,
+  "maintenanceMessage": "🔧 Bot sedang dalam maintenance. Silakan coba lagi nanti.",
+  "autoCheck": true,
+  "autoCheckInterval": 1,
+  "groupsEnabled": false
+}

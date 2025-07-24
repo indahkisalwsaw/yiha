@@ -1,0 +1,7485 @@
+[
+  {
+    "timestamp": "2025-06-25T15:27:41.275Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-25T15:27:41.329Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:27:41.946Z",
+    "level": "INFO",
+    "message": "User requested help",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:27:43.728Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-25T15:27:43.752Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:27:44.221Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:28:24.959Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-25T15:28:24.986Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:28:25.003Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-25T15:28:25.020Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:28:25.039Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 6
+  },
+  {
+    "timestamp": "2025-06-25T15:28:28.311Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-06-25T15:28:29.352Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 6,
+    "sent": 5,
+    "failed": 1,
+    "blocked": 1
+  },
+  {
+    "timestamp": "2025-06-25T15:28:40.211Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-25T15:28:40.226Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T15:28:40.640Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-25T15:28:40.663Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-25T15:28:42.191Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-25T15:28:42.230Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-25T15:28:43.160Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.231Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 6331286714,
+    "username": "ju0ntopz"
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.293Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6331286714,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6331286714,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.307Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6331286714,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.319Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6331286714,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6331286714,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.330Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6331286714,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.858Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 6331286714
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.870Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6331286714,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6331286714,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-25T23:29:13.888Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6331286714,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-25T23:29:14.349Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-25T23:29:14.357Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-25T23:29:14.543Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-25T23:29:14.867Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-25T23:29:14.881Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 6331286714
+  },
+  {
+    "timestamp": "2025-06-25T23:29:15.137Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-25T23:29:15.148Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-25T23:29:15.195Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-25T23:29:15.235Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-25T23:29:16.127Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6331286714
+  },
+  {
+    "timestamp": "2025-06-25T23:29:16.287Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6331286714
+  },
+  {
+    "timestamp": "2025-06-26T01:44:28.214Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 5585276867,
+    "username": "Shinichidesu"
+  },
+  {
+    "timestamp": "2025-06-26T01:44:28.308Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5585276867,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5585276867,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-26T01:44:28.354Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5585276867,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-26T01:44:29.380Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 5585276867
+  },
+  {
+    "timestamp": "2025-06-26T01:44:29.400Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5585276867,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5585276867,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-26T01:44:29.457Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5585276867,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-26T01:44:30.007Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T01:44:30.030Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T01:44:30.079Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T01:44:30.116Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T01:44:31.705Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T01:44:31.733Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-26T01:44:32.094Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T01:44:32.113Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-26T01:44:32.583Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5585276867
+  },
+  {
+    "timestamp": "2025-06-26T01:44:33.554Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 5585276867
+  },
+  {
+    "timestamp": "2025-06-26T03:31:00.462Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 613653893,
+    "username": "Ciko01"
+  },
+  {
+    "timestamp": "2025-06-26T03:31:01.034Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 613653893
+  },
+  {
+    "timestamp": "2025-06-26T03:31:01.075Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 613653893,
+    "configAdminId": 6312194526,
+    "checkingUserId": 613653893,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-26T03:31:01.106Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 613653893,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-26T03:31:01.624Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T03:31:01.643Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T03:31:03.633Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T03:31:03.676Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-26T03:31:04.909Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 613653893
+  },
+  {
+    "timestamp": "2025-06-26T03:35:41.686Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:35:41.705Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:35:42.138Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T03:35:43.294Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:35:45.065Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:35:45.100Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:35:45.134Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T03:35:45.158Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:35:57.346Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:35:57.377Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:35:57.402Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T03:35:57.423Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:18.988Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:52:19.044Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:19.094Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T03:52:19.110Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:19.132Z",
+    "level": "ADMIN",
+    "message": "Admin checked stats",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:25.298Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:52:25.323Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:25.348Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T03:52:25.374Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:25.412Z",
+    "level": "ADMIN",
+    "message": "Admin checked alerts",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:46.713Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:52:46.727Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:47.152Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T03:52:47.168Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T03:52:49.257Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T03:52:49.301Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-26T03:52:50.174Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:50.415Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T03:52:50.434Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T03:52:50.854Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T03:52:51.777Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T09:17:29.282Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1989868982,
+    "username": "rolandowati"
+  },
+  {
+    "timestamp": "2025-06-26T09:17:29.828Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1989868982
+  },
+  {
+    "timestamp": "2025-06-26T09:17:29.846Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1989868982,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1989868982,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-26T09:17:29.859Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1989868982,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-26T09:17:30.347Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T09:17:30.356Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T09:17:32.268Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T09:17:32.301Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-26T09:17:33.137Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 1989868982
+  },
+  {
+    "timestamp": "2025-06-26T10:57:16.756Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T10:57:16.813Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T10:57:16.848Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T10:57:16.869Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T13:20:40.006Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T13:20:40.052Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T13:20:40.576Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T13:20:40.589Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T13:20:42.262Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T13:20:42.308Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-06-26T13:20:43.281Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T13:20:46.926Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T13:20:46.942Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T13:20:46.958Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T13:20:46.977Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:32:14.901Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:32:14.938Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:32:15.476Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T15:32:15.496Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T15:32:17.315Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T15:32:17.369Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-26T15:32:18.316Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:32:23.085Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:32:23.129Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:32:23.591Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T15:32:24.461Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:33:43.836Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:33:43.854Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:33:44.321Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T15:33:45.412Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:33:46.332Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:33:46.351Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:33:47.205Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Figment"
+  },
+  {
+    "timestamp": "2025-06-26T15:33:48.593Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:33:48.615Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:33:49.470Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Backpack Hero"
+  },
+  {
+    "timestamp": "2025-06-26T15:34:18.595Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:34:18.628Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:34:19.319Z",
+    "level": "INFO",
+    "message": "User requested help",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:35:25.526Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:35:25.556Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:35:38.716Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:35:38.764Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:35:38.809Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T15:35:38.825Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:35:38.850Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 10
+  },
+  {
+    "timestamp": "2025-06-26T15:35:43.268Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-06-26T15:35:45.479Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 10,
+    "sent": 9,
+    "failed": 1,
+    "blocked": 1
+  },
+  {
+    "timestamp": "2025-06-26T15:35:53.735Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:35:53.756Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:35:53.773Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T15:35:53.789Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:35:53.808Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 10
+  },
+  {
+    "timestamp": "2025-06-26T15:35:57.905Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-06-26T15:36:00.225Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 10,
+    "sent": 9,
+    "failed": 1,
+    "blocked": 1
+  },
+  {
+    "timestamp": "2025-06-26T15:36:52.422Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T15:36:52.457Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T15:36:52.901Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T15:36:53.888Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T22:28:27.262Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T22:28:27.303Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T22:28:27.328Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T22:28:27.338Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T22:28:30.651Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-26T22:28:30.670Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T22:28:30.689Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-26T22:28:30.707Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-26T23:10:31.341Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1303669856,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1303669856,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-26T23:10:31.395Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1303669856,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-26T23:10:31.975Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T23:10:32.007Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-26T23:10:34.547Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-26T23:10:34.597Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-26T23:10:35.712Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 1303669856
+  },
+  {
+    "timestamp": "2025-06-27T10:43:15.193Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-27T10:43:15.360Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-27T10:43:15.391Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-27T10:43:15.410Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-27T10:43:19.600Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-27T10:43:19.630Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-27T10:43:19.655Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-27T10:43:19.676Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-27T16:46:52.604Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 5883668109,
+    "username": "activatera"
+  },
+  {
+    "timestamp": "2025-06-27T16:46:53.909Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 5883668109
+  },
+  {
+    "timestamp": "2025-06-27T16:46:53.945Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5883668109,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5883668109,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-27T16:46:53.962Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5883668109,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-27T16:46:54.399Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T16:46:54.418Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T16:46:56.013Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-27T16:46:56.044Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-27T16:46:56.903Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5883668109
+  },
+  {
+    "timestamp": "2025-06-27T16:49:59.082Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5883668109,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5883668109,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-27T16:49:59.107Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5883668109,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-27T16:49:59.536Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T16:50:00.416Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5883668109
+  },
+  {
+    "timestamp": "2025-06-27T16:50:22.150Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5883668109,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5883668109,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-27T16:50:22.189Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5883668109,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-27T16:50:22.676Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T16:50:23.722Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 5883668109
+  },
+  {
+    "timestamp": "2025-06-27T16:51:48.573Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5883668109,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5883668109,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-27T16:51:48.616Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5883668109,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-27T16:51:49.090Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T16:51:50.022Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5883668109
+  },
+  {
+    "timestamp": "2025-06-27T17:02:20.784Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-27T17:02:20.813Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-27T17:02:21.573Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T17:02:21.594Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-27T17:02:23.214Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-27T17:02:23.225Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-27T17:02:24.175Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T07:20:16.154Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 2098145223,
+    "username": "erzam7302"
+  },
+  {
+    "timestamp": "2025-06-28T07:20:16.616Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 2098145223
+  },
+  {
+    "timestamp": "2025-06-28T07:20:16.639Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2098145223,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2098145223,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T07:20:16.654Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2098145223,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T07:20:17.083Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T07:20:17.091Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T07:20:18.156Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T07:20:18.191Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T07:20:18.999Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 2098145223
+  },
+  {
+    "timestamp": "2025-06-28T07:21:17.341Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2098145223,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2098145223,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T07:21:17.401Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2098145223,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T07:21:18.351Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T07:21:19.262Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 2098145223
+  },
+  {
+    "timestamp": "2025-06-28T07:21:26.395Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2098145223,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2098145223,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T07:21:26.470Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2098145223,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T07:21:27.320Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 2098145223,
+    "gameTitle": "Figment"
+  },
+  {
+    "timestamp": "2025-06-28T07:21:29.828Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2098145223,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2098145223,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T07:21:29.878Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2098145223,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T07:21:30.813Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T07:21:30.888Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T07:21:31.895Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T07:21:31.965Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T07:21:32.757Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 2098145223
+  },
+  {
+    "timestamp": "2025-06-28T07:21:35.342Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2098145223,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2098145223,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T07:21:35.366Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2098145223,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T07:21:36.098Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T07:21:36.985Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 2098145223
+  },
+  {
+    "timestamp": "2025-06-28T09:50:30.330Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T09:50:30.373Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:30.785Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:40.921Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T09:50:40.939Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:41.738Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T09:50:41.759Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T09:50:43.066Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T09:50:43.091Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T09:50:43.923Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:46.269Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T09:50:46.310Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:47.135Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T09:50:47.958Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:49.304Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T09:50:49.336Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:50.203Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Figment"
+  },
+  {
+    "timestamp": "2025-06-28T09:50:52.407Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T09:50:52.443Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T09:50:53.288Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Backpack Hero"
+  },
+  {
+    "timestamp": "2025-06-28T12:11:24.104Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T12:11:24.197Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T12:11:25.132Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T12:11:25.180Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T12:11:27.000Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T12:11:27.046Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T12:11:28.085Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T12:14:55.572Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T12:14:55.676Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T12:14:56.145Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T12:14:57.237Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.002Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 6765983872,
+    "username": "Upil8"
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.129Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6765983872,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6765983872,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.145Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6765983872,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.162Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.176Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.191Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.204Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.228Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.239Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.681Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 6765983872
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.695Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6765983872,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6765983872,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T17:02:02.708Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6765983872,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T17:02:03.161Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T17:02:03.177Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T17:02:03.307Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T17:02:03.322Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T17:02:03.381Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T17:02:03.397Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T17:02:05.041Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T17:02:05.054Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T17:02:05.068Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T17:02:05.078Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T17:02:05.092Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T17:02:05.104Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T17:02:06.034Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6765983872
+  },
+  {
+    "timestamp": "2025-06-28T17:02:06.045Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:06.063Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6765983872
+  },
+  {
+    "timestamp": "2025-06-28T17:02:11.703Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:11.736Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:11.766Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:11.794Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:39.507Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:39.528Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T17:02:39.550Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-28T17:02:39.577Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-28T18:29:01.334Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 7905893243
+  },
+  {
+    "timestamp": "2025-06-28T18:29:01.631Z",
+    "level": "ERROR",
+    "message": "Failed to send new user notification",
+    "userId": 7905893243,
+    "error": "400: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 69"
+  },
+  {
+    "timestamp": "2025-06-28T18:29:01.656Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7905893243,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7905893243,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T18:29:01.671Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7905893243,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T18:29:02.097Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 7905893243
+  },
+  {
+    "timestamp": "2025-06-28T18:29:09.393Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7905893243,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7905893243,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T18:29:09.415Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7905893243,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T18:29:09.836Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T18:29:09.864Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T18:29:11.736Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T18:29:11.750Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T18:29:12.572Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7905893243
+  },
+  {
+    "timestamp": "2025-06-28T18:29:16.498Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7905893243,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7905893243,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-06-28T18:29:16.521Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7905893243,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-06-28T18:29:17.302Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T18:29:17.321Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-28T18:29:17.503Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-28T18:29:17.517Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-28T18:29:18.348Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7905893243
+  },
+  {
+    "timestamp": "2025-06-29T16:38:44.883Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-29T16:38:45.003Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T16:38:45.471Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-29T16:38:45.494Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-29T16:38:46.984Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-29T16:38:47.010Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-29T16:38:47.906Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:47:51.766Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-29T17:47:51.821Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:47:52.261Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-29T17:47:52.297Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-06-29T17:47:54.239Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-06-29T17:47:54.272Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-06-29T17:47:55.214Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:48:02.171Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-29T17:48:02.203Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:48:02.232Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-29T17:48:02.255Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:48:07.789Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-29T17:48:07.826Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:48:07.862Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-06-29T17:48:07.891Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:48:18.011Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-06-29T17:48:18.064Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-06-29T17:48:18.751Z",
+    "level": "INFO",
+    "message": "User requested help",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:25:12.262Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-03T16:25:12.393Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:25:12.891Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-03T16:25:12.905Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-03T16:25:14.968Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-03T16:25:14.992Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-03T16:25:16.036Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:10.163Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:10.195Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:18.645Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:18.663Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:18.691Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:18.704Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:18.720Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 14
+  },
+  {
+    "timestamp": "2025-07-03T16:28:25.507Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-03T16:28:30.690Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 14,
+    "sent": 13,
+    "failed": 1,
+    "blocked": 1
+  },
+  {
+    "timestamp": "2025-07-03T16:28:43.307Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:43.335Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:43.363Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:43.378Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:43.395Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 14
+  },
+  {
+    "timestamp": "2025-07-03T16:28:48.231Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-03T16:28:52.130Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 14,
+    "sent": 13,
+    "failed": 1,
+    "blocked": 1
+  },
+  {
+    "timestamp": "2025-07-03T16:28:52.395Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:52.423Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:52.846Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-03T16:28:53.734Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:55.637Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-03T16:28:55.673Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-03T16:28:56.555Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-03T16:28:57.454Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-04T06:45:38.022Z",
+    "level": "ERROR",
+    "message": "Failed to start bot",
+    "userId": null,
+    "error": "request to https://api.telegram.org/bot7837393222:[REDACTED]/getMe failed, reason: getaddrinfo ENOTFOUND api.telegram.org"
+  },
+  {
+    "timestamp": "2025-07-04T11:24:08.412Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5574443874,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5574443874,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T11:24:08.549Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5574443874,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T11:24:09.055Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T11:24:09.107Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T11:24:10.737Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-04T11:24:10.748Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-04T11:24:12.788Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5574443874
+  },
+  {
+    "timestamp": "2025-07-04T11:37:56.965Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6331286714,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6331286714,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T11:37:57.023Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6331286714,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T11:37:57.584Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T11:37:57.609Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T11:37:59.080Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-04T11:37:59.126Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-04T11:38:00.362Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6331286714
+  },
+  {
+    "timestamp": "2025-07-04T13:47:26.185Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 7323105346,
+    "username": "SAMOBEN01"
+  },
+  {
+    "timestamp": "2025-07-04T13:47:27.025Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-04T13:47:27.053Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T13:47:27.083Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T13:47:27.835Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-04T13:47:28.047Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T13:47:28.065Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T13:47:28.279Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T13:47:28.296Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T13:47:28.856Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-04T13:47:42.786Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T13:47:42.802Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T13:47:44.037Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T13:47:44.100Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T13:47:44.773Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-04T13:47:44.816Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-04T13:47:46.400Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-04T13:47:57.972Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T13:47:58.041Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T13:47:58.890Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-04T13:48:00.111Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-04T13:52:50.834Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-04T13:52:50.885Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-04T13:52:53.838Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 7323105346,
+    "gameTitle": "Sky Racket"
+  },
+  {
+    "timestamp": "2025-07-08T09:17:52.959Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.088Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.106Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.124Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.143Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.156Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.170Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 613653893,
+    "configAdminId": 6312194526,
+    "checkingUserId": 613653893,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.182Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 613653893,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.588Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-08T09:17:53.609Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-08T09:17:55.518Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-08T09:17:55.553Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-08T09:17:56.451Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 613653893
+  },
+  {
+    "timestamp": "2025-07-08T09:18:09.374Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:09.434Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:10.035Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-08T09:18:10.885Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:11.108Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:11.154Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:11.189Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:11.235Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:14.463Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:14.500Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:14.532Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:14.566Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:19.981Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:20.008Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:20.444Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-08T09:18:21.277Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:24.740Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:18:24.774Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:18:25.527Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-08T09:18:26.327Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:42:34.984Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:42:35.035Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:42:35.783Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Sky Racket"
+  },
+  {
+    "timestamp": "2025-07-08T09:42:37.398Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-08T09:42:37.419Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-08T09:42:38.190Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Figment 2: Creed Valley"
+  },
+  {
+    "timestamp": "2025-07-09T12:58:01.270Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1989868982,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1989868982,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-09T12:58:01.390Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1989868982,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-09T12:58:01.831Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-09T12:58:01.843Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-09T12:58:04.130Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-09T12:58:04.151Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-07-09T12:58:05.575Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1989868982
+  },
+  {
+    "timestamp": "2025-07-10T02:24:39.014Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1114874029,
+    "username": "Manthana_Naveen"
+  },
+  {
+    "timestamp": "2025-07-10T02:24:39.502Z",
+    "level": "ERROR",
+    "message": "Failed to send new user notification",
+    "userId": 1114874029,
+    "error": "400: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 99"
+  },
+  {
+    "timestamp": "2025-07-10T02:24:39.519Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1114874029,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1114874029,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-10T02:24:39.540Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1114874029,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-10T02:24:39.973Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1114874029
+  },
+  {
+    "timestamp": "2025-07-10T02:25:35.857Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-10T02:25:35.884Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-10T02:25:36.276Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-10T02:25:36.294Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-10T02:25:38.314Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-10T02:25:38.341Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 3
+  },
+  {
+    "timestamp": "2025-07-10T02:25:39.084Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-10T15:58:59.399Z",
+    "level": "ERROR",
+    "message": "Failed to start bot",
+    "userId": null,
+    "error": "409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+  },
+  {
+    "timestamp": "2025-07-10T15:59:17.132Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-10T15:59:17.284Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-10T15:59:17.312Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-10T15:59:17.331Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-10T15:59:17.360Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 16
+  },
+  {
+    "timestamp": "2025-07-10T15:59:23.029Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-10T15:59:27.589Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 16,
+    "sent": 15,
+    "failed": 1,
+    "blocked": 1
+  },
+  {
+    "timestamp": "2025-07-10T15:59:27.863Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-10T15:59:27.884Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-10T15:59:28.331Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-10T15:59:28.347Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-10T15:59:30.548Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-10T15:59:30.603Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-10T15:59:31.554Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-10T16:42:17.351Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-10T16:42:17.460Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-10T16:42:17.937Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-10T16:42:17.961Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-10T16:42:19.526Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-10T16:42:19.691Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-10T16:42:21.310Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-11T08:58:16.359Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 846581122,
+    "configAdminId": 6312194526,
+    "checkingUserId": 846581122,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-11T08:58:16.515Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 846581122,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-11T08:58:16.940Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-11T08:58:16.957Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-11T08:58:18.311Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-11T08:58:18.339Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-11T08:58:19.162Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 846581122
+  },
+  {
+    "timestamp": "2025-07-11T08:58:27.947Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-11T08:58:27.968Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-11T08:58:28.379Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-11T08:58:29.177Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-11T08:58:30.126Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-11T08:58:30.146Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-11T08:58:30.550Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-11T08:58:31.363Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-11T17:25:10.236Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7323105346,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7323105346,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-11T17:25:10.285Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7323105346,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-11T17:25:10.307Z",
+    "level": "INFO",
+    "message": "User blocked bot",
+    "userId": 7323105346
+  },
+  {
+    "timestamp": "2025-07-11T17:34:56.966Z",
+    "level": "ERROR",
+    "message": "Failed to start bot",
+    "userId": null,
+    "error": "409: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running"
+  },
+  {
+    "timestamp": "2025-07-13T12:31:40.166Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-13T12:31:40.346Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T12:31:40.374Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-13T12:31:40.401Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T12:31:40.867Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-13T12:31:40.895Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-13T12:31:41.272Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-13T12:31:41.295Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-13T12:31:42.455Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-13T12:31:42.479Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-13T12:31:42.506Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-13T12:31:42.530Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-13T12:31:43.240Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T12:31:43.354Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T12:31:43.622Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-13T12:31:43.652Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T12:31:43.686Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-13T12:31:43.709Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T14:39:28.743Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-13T14:39:28.782Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T14:39:28.800Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-13T14:39:28.819Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-13T14:39:28.835Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 16
+  },
+  {
+    "timestamp": "2025-07-13T14:39:37.002Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-13T14:39:43.864Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "7323105346"
+  },
+  {
+    "timestamp": "2025-07-13T14:39:47.056Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 16,
+    "sent": 14,
+    "failed": 2,
+    "blocked": 2
+  },
+  {
+    "timestamp": "2025-07-16T17:59:15.813Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1308433755,
+    "username": "Sg4793927"
+  },
+  {
+    "timestamp": "2025-07-16T17:59:15.951Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1308433755,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1308433755,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-16T17:59:15.966Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1308433755,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-16T17:59:16.512Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1308433755
+  },
+  {
+    "timestamp": "2025-07-16T17:59:16.527Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1308433755,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1308433755,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-16T17:59:16.542Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1308433755,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-16T17:59:16.947Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1308433755
+  },
+  {
+    "timestamp": "2025-07-16T17:59:17.190Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-16T17:59:17.212Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-16T17:59:17.651Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-16T17:59:17.679Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-16T17:59:19.333Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-16T17:59:19.389Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-16T17:59:20.744Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-16T17:59:25.951Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-16T17:59:25.990Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-16T17:59:26.908Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-16T17:59:28.009Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-16T17:59:50.019Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-16T17:59:50.043Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-16T17:59:50.861Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Sid Meier’s Civilization® VI Platinum Edition"
+  },
+  {
+    "timestamp": "2025-07-17T12:37:16.925Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T12:37:17.028Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T12:37:17.476Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T12:37:17.494Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T12:37:19.353Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T12:37:19.406Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-17T12:37:20.538Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T12:37:27.415Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T12:37:27.469Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T12:37:28.350Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T12:37:29.553Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T12:37:31.074Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T12:37:31.087Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T12:37:31.977Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6312194526,
+    "gameTitle": "Sid Meier’s Civilization® VI Platinum Edition"
+  },
+  {
+    "timestamp": "2025-07-17T14:05:20.379Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T14:05:20.457Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T14:05:21.285Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T14:05:21.337Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T14:05:23.385Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T14:05:23.421Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 2,
+    "upcomingGames": 2
+  },
+  {
+    "timestamp": "2025-07-17T14:05:24.492Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:32:35.681Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T15:32:35.728Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:32:36.183Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T15:32:36.206Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T15:32:37.706Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T15:32:37.751Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T15:32:38.727Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:33:27.088Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T15:33:27.135Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:33:27.573Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T15:33:28.424Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:34:34.700Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T15:34:34.725Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:34:35.153Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T15:34:36.032Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:42:33.124Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T15:42:33.165Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T15:42:33.613Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T15:42:33.658Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T15:42:35.332Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T15:42:35.362Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T15:42:36.232Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:02:37.639Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:02:37.702Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:02:42.403Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:02:42.455Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:02:42.508Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:02:42.547Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:02:53.173Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:02:53.230Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:02:53.283Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:02:53.325Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:03:02.750Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:03:02.804Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:03:15.392Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:03:15.452Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:03:15.505Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:03:15.543Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:03:15.586Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 17
+  },
+  {
+    "timestamp": "2025-07-17T16:03:21.315Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-17T16:03:25.346Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "7323105346"
+  },
+  {
+    "timestamp": "2025-07-17T16:03:25.927Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 17,
+    "sent": 15,
+    "failed": 2,
+    "blocked": 2
+  },
+  {
+    "timestamp": "2025-07-17T16:05:19.140Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:05:19.200Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:05:19.249Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:05:19.290Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:05:19.330Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 17
+  },
+  {
+    "timestamp": "2025-07-17T16:05:25.211Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-17T16:05:28.994Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "7323105346"
+  },
+  {
+    "timestamp": "2025-07-17T16:05:29.567Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 17,
+    "sent": 15,
+    "failed": 2,
+    "blocked": 2
+  },
+  {
+    "timestamp": "2025-07-17T16:07:01.552Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:07:01.612Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:07:02.330Z",
+    "level": "INFO",
+    "message": "User requested help",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:21:41.726Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 6484687400,
+    "username": "Kingaqp"
+  },
+  {
+    "timestamp": "2025-07-17T16:21:42.216Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-17T16:21:42.263Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:21:42.311Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:21:42.777Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-17T16:21:43.117Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:21:43.169Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:21:43.648Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-17T16:21:52.438Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:21:52.505Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:21:53.389Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T16:21:53.453Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T16:21:54.935Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T16:21:54.989Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T16:21:55.888Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-17T16:22:01.091Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:22:01.167Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:22:02.051Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T16:22:02.977Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-17T16:22:29.107Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:22:29.175Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:22:30.070Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 6484687400,
+    "gameTitle": "Legion TD 2"
+  },
+  {
+    "timestamp": "2025-07-17T16:22:32.472Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:22:32.530Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:22:33.006Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T16:22:33.981Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-17T16:23:41.155Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1466812735,
+    "username": "antfrgile"
+  },
+  {
+    "timestamp": "2025-07-17T16:23:41.596Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1466812735
+  },
+  {
+    "timestamp": "2025-07-17T16:23:41.610Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1466812735,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1466812735,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:23:41.622Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1466812735,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:23:42.044Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1466812735
+  },
+  {
+    "timestamp": "2025-07-17T16:24:32.950Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:24:33.003Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:24:33.051Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:24:33.092Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:24:41.625Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:24:41.671Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:24:41.712Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:24:41.747Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:24:52.155Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T16:24:52.199Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:24:52.242Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-17T16:24:52.275Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:24:52.311Z",
+    "level": "ADMIN",
+    "message": "Admin checked stats",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T16:25:48.782Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1466812735,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1466812735,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:25:48.856Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1466812735,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:25:49.344Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T16:25:50.277Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1466812735
+  },
+  {
+    "timestamp": "2025-07-17T16:25:53.528Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1466812735,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1466812735,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:25:53.578Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1466812735,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:25:54.030Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T16:25:54.869Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 1466812735
+  },
+  {
+    "timestamp": "2025-07-17T16:29:34.949Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1466812735,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1466812735,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:29:35.001Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1466812735,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:29:35.842Z",
+    "level": "INFO",
+    "message": "User set reminder",
+    "userId": 1466812735,
+    "gameTitle": "Legion TD 2"
+  },
+  {
+    "timestamp": "2025-07-17T16:54:22.337Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1653541003,
+    "username": "kolektorkucing"
+  },
+  {
+    "timestamp": "2025-07-17T16:54:22.864Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T16:54:22.889Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T16:54:22.913Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T16:54:23.297Z",
+    "level": "ERROR",
+    "message": "Error in start handler",
+    "userId": 1653541003,
+    "error": "request to https://api.telegram.org/bot7837393222:[REDACTED]/sendMessage failed, reason: read ECONNABORTED",
+    "stack": "FetchError: request to https://api.telegram.org/bot7837393222:[REDACTED]/sendMessage failed, reason: read ECONNABORTED\n    at ClientRequest.<anonymous> (/data/data/com.termux/files/home/epic-games-bot/node_modules/node-fetch/lib/index.js:1501:11)\n    at ClientRequest.emit (node:events:507:28)\n    at emitErrorEvent (node:_http_client:104:11)\n    at TLSSocket.socketErrorListener (node:_http_client:518:5)\n    at TLSSocket.emit (node:events:507:28)\n    at emitErrorNT (node:internal/streams/destroy:170:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:129:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)"
+  },
+  {
+    "timestamp": "2025-07-17T16:54:23.321Z",
+    "level": "ERROR",
+    "message": "Failed to send error reply",
+    "userId": 1653541003,
+    "error": "request to https://api.telegram.org/bot7837393222:[REDACTED]/sendMessage failed, reason: getaddrinfo ENOTFOUND api.telegram.org"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.372Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.512Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.533Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.553Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.575Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.587Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.600Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.612Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.622Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.633Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.647Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.666Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.678Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.689Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.700Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.710Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.720Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.730Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.741Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.750Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.794Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 1653541003,
+    "match": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.803Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:01:23.816Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.285Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.824Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.851Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.874Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.937Z",
+    "level": "WARN",
+    "message": "🚨 UNAUTHORIZED ADMIN ACCESS ATTEMPT",
+    "userId": 1653541003,
+    "username": "kolektorkucing",
+    "firstName": "Dzikri",
+    "command": "/adminhelp"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.958Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.978Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:24.993Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.016Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.034Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.052Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.065Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.081Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.092Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:01:25.197Z",
+    "level": "INFO",
+    "message": "User requested help",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.559Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.585Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.611Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.629Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.652Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.672Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.692Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.705Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.724Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T17:01:36.737Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T17:01:37.523Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:37.559Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:37.599Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:37.626Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:01:37.665Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-17T17:41:12.309Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-17T17:41:12.552Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T17:41:13.033Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:41:13.051Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:41:14.836Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-17T17:41:14.856Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-17T17:41:15.732Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-17T17:44:00.303Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1502094507,
+    "username": "DikaArdnt"
+  },
+  {
+    "timestamp": "2025-07-17T17:44:00.777Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1502094507
+  },
+  {
+    "timestamp": "2025-07-17T17:44:00.799Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1502094507,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1502094507,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:44:00.826Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1502094507,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:44:01.278Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1502094507
+  },
+  {
+    "timestamp": "2025-07-17T17:44:07.646Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1502094507,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1502094507,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:44:07.661Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1502094507,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:44:08.101Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:44:08.984Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1502094507
+  },
+  {
+    "timestamp": "2025-07-17T17:44:14.358Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1502094507,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1502094507,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-17T17:44:14.377Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1502094507,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T17:44:15.480Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-17T17:44:16.743Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 1502094507
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.309Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1101773658,
+    "username": "Imcrowly"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.379Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1101773658,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1101773658,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.404Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1101773658,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.442Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1101773658,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1101773658,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.466Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1101773658,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.491Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 7795848648,
+    "username": "nubieu"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.529Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.556Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:55:49.610Z",
+    "level": "INFO",
+    "message": "User blocked bot",
+    "userId": 1101773658
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.080Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1101773658
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.109Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1101773658,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1101773658,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.144Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1101773658,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.574Z",
+    "level": "ERROR",
+    "message": "Error in start handler",
+    "userId": 1101773658,
+    "error": "403: Forbidden: bot was blocked by the user",
+    "stack": "Error: 403: Forbidden: bot was blocked by the user\n    at Telegram.callApi (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/core/network/client.js:315:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async UserHandler.handleStart (/data/data/com.termux/files/home/epic-games-bot/src/handlers/userHandler.js:27:13)\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)\n    at async /data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:519:21\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)\n    at async /data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:519:21\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)\n    at async /data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:519:21\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.737Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.747Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.756Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.797Z",
+    "level": "ERROR",
+    "message": "Error in handleEpicFree",
+    "userId": 1101773658,
+    "error": "403: Forbidden: bot was blocked by the user",
+    "stack": "Error: 403: Forbidden: bot was blocked by the user\n    at Telegram.callApi (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/core/network/client.js:315:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async UserHandler.handleEpicFree (/data/data/com.termux/files/home/epic-games-bot/src/handlers/userHandler.js:134:26)\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)\n    at async /data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:519:21\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)\n    at async /data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:519:21\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)\n    at async /data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:519:21\n    at async execute (/data/data/com.termux/files/home/epic-games-bot/node_modules/telegraf/lib/composer.js:518:17)"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.809Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T01:55:50.821Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T01:55:51.024Z",
+    "level": "ERROR",
+    "message": "Failed to send error reply",
+    "userId": 1101773658,
+    "error": "403: Forbidden: bot was blocked by the user"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:51.228Z",
+    "level": "ERROR",
+    "message": "Error editing message",
+    "userId": 1101773658,
+    "error": "403: Forbidden: bot was blocked by the user"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:51.247Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-18T01:55:51.613Z",
+    "level": "ERROR",
+    "message": "Error sending reply",
+    "userId": 1101773658,
+    "error": "403: Forbidden: bot was blocked by the user"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:52.432Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-18T01:55:52.454Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-18T01:55:53.470Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-18T01:56:24.255Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:56:24.282Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:56:25.407Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T01:56:26.442Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-18T01:56:35.771Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T01:56:35.802Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T01:56:37.373Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T01:56:37.385Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T01:56:37.536Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-18T01:56:37.556Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-18T01:56:38.347Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-18T06:38:36.750Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-18T06:38:36.817Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:38:36.849Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-18T06:38:36.870Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:38:40.104Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-18T06:38:40.135Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:38:40.167Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-18T06:38:40.189Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:46:04.519Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-18T06:46:04.546Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:46:08.364Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-18T06:46:08.396Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:46:08.789Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:56:16.014Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-18T06:56:16.035Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:56:16.050Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-18T06:56:16.060Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-18T06:56:16.098Z",
+    "level": "ADMIN",
+    "message": "Broadcast started",
+    "userId": 6312194526,
+    "totalUsers": 23
+  },
+  {
+    "timestamp": "2025-07-18T06:56:17.953Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "1101773658"
+  },
+  {
+    "timestamp": "2025-07-18T06:56:23.422Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "6357387018"
+  },
+  {
+    "timestamp": "2025-07-18T06:56:27.042Z",
+    "level": "WARN",
+    "message": "User blocked bot during broadcast",
+    "userId": "7323105346"
+  },
+  {
+    "timestamp": "2025-07-18T06:56:28.648Z",
+    "level": "ADMIN",
+    "message": "Broadcast completed",
+    "userId": 6312194526,
+    "total": 23,
+    "sent": 20,
+    "failed": 3,
+    "blocked": 3
+  },
+  {
+    "timestamp": "2025-07-18T07:03:00.063Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1653541003,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1653541003,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T07:03:00.127Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1653541003,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T07:03:00.704Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T07:03:00.744Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T07:03:02.445Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-18T07:03:02.500Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-18T07:03:03.336Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1653541003
+  },
+  {
+    "timestamp": "2025-07-18T07:53:01.867Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T07:53:01.894Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T07:53:02.270Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T07:53:02.280Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T07:53:02.375Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-18T07:53:02.387Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-18T07:53:03.145Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-18T17:47:51.713Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T17:48:08.242Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T17:48:08.883Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T17:48:08.955Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-18T17:48:12.756Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-18T17:48:12.803Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-18T17:48:13.792Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-18T17:48:14.218Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-18T17:48:14.294Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T17:48:14.810Z",
+    "level": "INFO",
+    "message": "User requested help",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-19T01:49:36.365Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 2144709538,
+    "username": "Mrnvnss"
+  },
+  {
+    "timestamp": "2025-07-19T01:49:36.473Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2144709538,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2144709538,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-19T01:49:36.488Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2144709538,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-19T01:49:38.115Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 2144709538
+  },
+  {
+    "timestamp": "2025-07-19T01:49:38.155Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 2144709538,
+    "configAdminId": 6312194526,
+    "checkingUserId": 2144709538,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-19T01:49:38.212Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 2144709538,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-19T04:35:42.355Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5585276867,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5585276867,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-19T04:35:42.399Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5585276867,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-19T04:35:42.840Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-19T04:35:42.863Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-19T04:35:44.642Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-19T04:35:44.655Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-19T04:35:45.477Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5585276867
+  },
+  {
+    "timestamp": "2025-07-19T04:36:39.998Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5585276867,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5585276867,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-19T04:36:40.014Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5585276867,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-19T04:36:40.800Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-19T04:36:41.787Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 5585276867
+  },
+  {
+    "timestamp": "2025-07-19T13:06:15.635Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 5953508248,
+    "username": "haibara776"
+  },
+  {
+    "timestamp": "2025-07-19T13:06:16.422Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 5953508248
+  },
+  {
+    "timestamp": "2025-07-19T13:06:16.444Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5953508248,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5953508248,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-19T13:06:16.455Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5953508248,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-19T13:06:16.922Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 5953508248
+  },
+  {
+    "timestamp": "2025-07-19T13:06:25.649Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5953508248,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5953508248,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-19T13:06:25.660Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5953508248,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-19T13:06:25.672Z",
+    "level": "INFO",
+    "message": "User blocked bot",
+    "userId": 5953508248
+  },
+  {
+    "timestamp": "2025-07-19T14:58:34.084Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:34.148Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:34.627Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-19T14:58:34.638Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-19T14:58:36.571Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-19T14:58:36.603Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-19T14:58:37.439Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:37.694Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:37.735Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:37.779Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:37.814Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:51.247Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:51.286Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:51.312Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:51.334Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:51.371Z",
+    "level": "ADMIN",
+    "message": "Admin checked alerts",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:59.259Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:59.288Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-19T14:58:59.311Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-19T14:58:59.334Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T10:53:28.655Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-20T10:53:28.692Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T10:53:28.706Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-20T10:53:28.716Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T10:53:34.707Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-20T10:53:34.753Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T10:53:34.790Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-20T10:53:34.824Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T13:29:28.645Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6484687400,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6484687400,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-20T13:29:28.705Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 6484687400,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-20T13:29:29.309Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T13:29:29.331Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T13:29:31.919Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-20T13:29:31.963Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-20T13:29:35.980Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6484687400
+  },
+  {
+    "timestamp": "2025-07-20T14:59:36.647Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 5747161722,
+    "username": "jaehyunxtc"
+  },
+  {
+    "timestamp": "2025-07-20T14:59:37.130Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 5747161722
+  },
+  {
+    "timestamp": "2025-07-20T14:59:37.187Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5747161722,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5747161722,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-20T14:59:37.229Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5747161722,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-20T14:59:37.719Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 5747161722
+  },
+  {
+    "timestamp": "2025-07-20T15:00:02.399Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5747161722,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5747161722,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-20T15:00:02.423Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5747161722,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-20T15:00:03.135Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T15:00:03.158Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T15:00:03.805Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-20T15:00:03.856Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-20T15:00:04.842Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5747161722
+  },
+  {
+    "timestamp": "2025-07-20T15:00:19.267Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 5747161722,
+    "configAdminId": 6312194526,
+    "checkingUserId": 5747161722,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-20T15:00:19.292Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 5747161722,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-20T15:00:20.215Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T15:00:20.264Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T15:00:20.449Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-20T15:00:20.499Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-20T15:00:21.302Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 5747161722
+  },
+  {
+    "timestamp": "2025-07-20T16:53:17.351Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-20T16:53:17.394Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T16:53:17.870Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T16:53:17.890Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T16:53:19.480Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-20T16:53:19.534Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-20T16:53:20.485Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T16:53:21.868Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-20T16:53:21.898Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-20T16:53:22.362Z",
+    "level": "INFO",
+    "message": "Using cached Epic Games data",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-20T16:53:23.288Z",
+    "level": "INFO",
+    "message": "User checked upcoming games",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-23T18:27:37.610Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 7599181239
+  },
+  {
+    "timestamp": "2025-07-23T18:27:37.867Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1191834811,
+    "username": "StielZ"
+  },
+  {
+    "timestamp": "2025-07-23T18:27:37.898Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1191834811,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1191834811,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-23T18:27:37.919Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1191834811,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-23T18:27:38.552Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 7599181239
+  },
+  {
+    "timestamp": "2025-07-23T18:27:38.596Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7599181239,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7599181239,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-23T18:27:38.637Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7599181239,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-23T18:27:39.090Z",
+    "level": "INFO",
+    "message": "New user notification sent to admin",
+    "userId": 1191834811
+  },
+  {
+    "timestamp": "2025-07-23T18:27:39.134Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1191834811,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1191834811,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-23T18:27:39.172Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1191834811,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-23T18:27:39.218Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 7599181239
+  },
+  {
+    "timestamp": "2025-07-23T18:27:39.248Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1191834811
+  },
+  {
+    "timestamp": "2025-07-23T18:27:39.644Z",
+    "level": "INFO",
+    "message": "User started bot",
+    "userId": 1191834811
+  },
+  {
+    "timestamp": "2025-07-23T18:28:15.604Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-23T18:28:15.632Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-23T18:28:15.661Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-23T18:28:15.695Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-23T18:28:18.514Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "checkingUserId": 6312194526,
+    "isMainAdmin": true
+  },
+  {
+    "timestamp": "2025-07-23T18:28:18.554Z",
+    "level": "INFO",
+    "message": "Main admin verified from config",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-23T18:28:18.589Z",
+    "level": "INFO",
+    "message": "Admin check attempt",
+    "userId": 6312194526,
+    "configAdminId": 6312194526,
+    "attemptedUserId": 6312194526,
+    "match": true
+  },
+  {
+    "timestamp": "2025-07-23T18:28:18.617Z",
+    "level": "INFO",
+    "message": "Main admin access granted",
+    "userId": 6312194526
+  },
+  {
+    "timestamp": "2025-07-24T05:02:21.911Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1191834811,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1191834811,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-24T05:02:21.993Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1191834811,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T05:02:22.560Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T05:02:22.572Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T05:02:24.431Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-24T05:02:24.449Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-24T05:02:25.448Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 1191834811
+  },
+  {
+    "timestamp": "2025-07-24T05:34:41.449Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-24T05:34:41.510Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T05:34:42.750Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T05:34:42.777Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T05:34:44.408Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-24T05:34:44.441Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-24T05:34:45.974Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-24T05:35:00.634Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 7795848648,
+    "configAdminId": 6312194526,
+    "checkingUserId": 7795848648,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-24T05:35:00.648Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 7795848648,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T05:35:01.669Z",
+    "level": "INFO",
+    "message": "Fetching Epic Games data from API",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T05:35:01.718Z",
+    "level": "INFO",
+    "message": "Trying API endpoint: https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T05:35:01.970Z",
+    "level": "INFO",
+    "message": "Successfully fetched from API",
+    "userId": null,
+    "endpoint": "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions"
+  },
+  {
+    "timestamp": "2025-07-24T05:35:02.007Z",
+    "level": "INFO",
+    "message": "Epic Games data fetched successfully",
+    "userId": null,
+    "currentGames": 1,
+    "upcomingGames": 1
+  },
+  {
+    "timestamp": "2025-07-24T05:35:02.976Z",
+    "level": "INFO",
+    "message": "User checked free games",
+    "userId": 7795848648
+  },
+  {
+    "timestamp": "2025-07-24T15:49:38.066Z",
+    "level": "INFO",
+    "message": "New user added",
+    "userId": 1237179931,
+    "username": "OP_CHIRANJIT"
+  },
+  {
+    "timestamp": "2025-07-24T15:49:38.358Z",
+    "level": "ERROR",
+    "message": "Failed to send new user notification",
+    "userId": 1237179931,
+    "error": "400: Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 91"
+  },
+  {
+    "timestamp": "2025-07-24T15:49:38.387Z",
+    "level": "INFO",
+    "message": "isAdmin check",
+    "userId": 1237179931,
+    "configAdminId": 6312194526,
+    "checkingUserId": 1237179931,
+    "isMainAdmin": false
+  },
+  {
+    "timestamp": "2025-07-24T15:49:38.403Z",
+    "level": "INFO",
+    "message": "Database admin check",
+    "userId": 1237179931,
+    "isDbAdmin": false,
+    "totalAdmins": 1,
+    "adminsList": [
+      "6312194526"
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T15:49:38.426Z",
+    "level": "INFO",
+    "message": "User blocked bot",
+    "userId": 1237179931
+  },
+  {
+    "timestamp": "2025-07-24T16:51:41.317Z",
+    "level": "INFO",
+    "message": "Bot stopping (SIGTERM)",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T16:51:42.362Z",
+    "level": "INFO",
+    "message": "Bot started successfully",
+    "userId": null
+  },
+  {
+    "timestamp": "2025-07-24T16:51:42.490Z",
+    "level": "ERROR",
+    "message": "Unhandled rejection",
+    "userId": null,
+    "reason": {},
+    "promise": {}
+  }
+]
